@@ -1,4 +1,4 @@
-# contacts
+# contact-manager
 
 ## Project setup
 ```
