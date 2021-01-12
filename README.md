@@ -1,4 +1,4 @@
-# test-contacts
+# contacts
 
 ## Project setup
 ```
